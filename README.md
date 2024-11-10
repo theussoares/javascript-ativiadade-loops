@@ -4,9 +4,9 @@
 
 ## Introdução
 
-Um kata é um exercício individual de programação destinado à prática e aprimoramento de habilidades. Neste repositório, você irá praticar o uso de **loops**, **condicionais**, e **expressões em JavaScript** por meio de uma série de exercícios.
+É um exercício individual de programação destinado à prática e aprimoramento de habilidades. Neste repositório, você irá praticar o uso de **loops**, **condicionais**, e **expressões em JavaScript** por meio de uma série de exercícios.
 
-Seu objetivo é completar as funções em `katas1.js`, utilizando estruturas de repetição como `for`, `while` e `do while`. Cada kata concluído vale **1 ponto**.
+Seu objetivo é completar as funções em `exer1.js`, utilizando estruturas de repetição como `for`, `while` e `do while`. Cada kata concluído vale **1 ponto**.
 
 ## Tarefas
 
